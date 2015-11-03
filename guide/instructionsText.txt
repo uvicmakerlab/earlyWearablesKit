@@ -1,0 +1,11 @@
+INSTRUCTIONS
+
+I think I will try to make a tiny interrupter bell to propel the skull’s movement. When the battery is flipped, the electromagnet will activate. This will attract an iron contraption attached to the jaw and eyes. When the contraption lifts the circuit will break and fall back to its original position. This will complete the circuit and the process will continue until the battery box is returned up an upright position.
+
+First, I must make an electromagnet. I will cut one 6-inch piece and one 3-inch piece of enamel-insulated wire and strip each end until the copper is exposed. Then, I will tightly wrap the 6-inch piece of wire around an iron core so that it forms a coil. This electromagnet can be suspended above the iron contraption by attaching it to the pin. I will insert this pin through the hole in the skull’s base.
+
+One of the electromagnet’s copper wires can be wound around the iron contraption and the other end can be inserted through the hole in the base closest to the front of the skull and hooked up to the battery box. The 3-inch piece of copper wire can also be attached to the battery then inserted through the base of the skull so that it touches the bottom of the iron contraption.
+
+I must attach this iron contraption to the eyes and jaw. First, I will attach the eyes and let them rest in the skull’s sockets. I will insert a metal hook into the hole on the side of the jaw and fasten it to the contraption. Then, I will secure the jaw by inserting a metal rod through one side of the jaw to the other through the base. 
+
+Finally, I will insert the entire mechanism, base, and jaw inside the skull. Voilà! 

@@ -14,15 +14,23 @@ The Wearables Kit is part of a series of kits by the Maker Lab, and it was made 
 
 ## History 
 
+The [history](/history) folder contains various historical images. 
+
 ## Skull 
 
 ## Box 
 
 ## Guide
 
+## Essays 
+
 ## Exhibitions
 
-## Essays 
+## Technologies 
+
+## People 
+
+
 
 
 

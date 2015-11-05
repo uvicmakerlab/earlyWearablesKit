@@ -26,6 +26,8 @@ The [skull folder](/skull) contains 3-D models for each component of the skull. 
 
 ## Mechanism 
 
+![Mechanisms for the Wearable](/mechanism/haveFun.jpg)
+
 The [mechanism folder](/skull/mechanism) contains images detailing how the mechanism (resembling an interrupter bell or electric bell used as telegraph sounders) may have animated the jaw and eyes. From the MLab's perspective, the mechanism is the most complex component of the prototype. While it resembles an electric bell from the period, it is also much smaller. Materials, such as soft iron core, for these bells are not readily available today. As an alternative to the electric bell, the MLab also experimented with a solenoid. Images for these experiments are included in the folder, and video demonstrating the solenoid and telegraph sounder is available at https://vimeo.com/113746979. With these images, we have also include corelDRAW (CDR) files and photographs for making the pocket battery, which requires a 9-volt and wires. The mechanism folder also includes process documentation (in poster form) of how the MLab prototyped the skull and mechanism. 
 
 ## Box 
@@ -36,7 +38,7 @@ The [box folder](/box) contains corelDRAW (CDR) and Adobe Illustrator (AI) files
 
 ## Guide
 
-![Early Wearables Guide](/guide/frontispieceTitlePage.jpg)
+![Early Wearables Guide](/guide/pageSpreadView/frontispieceTitlePage.jpg)
 
 The [guide folder](/guide) contains four versions of a guide for contextualizing, interpreting, and assembling the skull stick-pin. For viewing the individual pages of the illustrated guide, see the [pageImages](/guide/pagesImages) subfolder. For viewing the page spread of the guide, see the [pageSpreadView](/guide/pageSpreadView) subfolder. This view is best for reading the guide on screen, in PDF or JPG. To print the guide, see the [sheetsView](/guide/sheetsView) subfolder. The MLab prints the guide in black and white and then either stitches the pages together or fastens them with ribbon or string. Finally, for raw text, see the TXT files. The guide includes instructions for assembly; however, these instructions are meant to be somewhat conjectural, prompting audiences to question them or fill in the gaps (in part because the MLab cannot know for certain how the skull stick-pin was made). Inspired by present-day zines, the guide is also informed by grangerized books from the period. Specifically, it grangerizes George Barral's 1891 biography of Trouvé. The guide includes historical information and is structured by keywords for interpreting the stick-pin as an early wearable. Drawing on the work of Raymond Williams, these keywords are: "class," "electromagnets," "gender," "miniature," "mourning," "orientalism," and "performance." While these keywords give the stick-pin dimension as a cultural object, they also afford conflicting interpretations of it. The folder also includes process documentation (in poster form) of how the MLab prototyped the guide over time. 
 
@@ -48,7 +50,7 @@ The [essays folder](/essays) includes abstracts for journal articles containing 
 
 ## Exhibitions
 
-![Wearables Kit at Rutgers](/exhibitions/https://github.com/uvicmakerlab/earlyWearablesKit/blob/master/exhibitions/rutgersAudience1.jpg)
+![Wearables Kit at Rutgers](/exhibitions/rutgersAudience1.jpg)
 
 The [exhibitions folder](/exhibitions) includes photographs of events where the MLab has shown the Early Wearable Kit, which was first displayed at Rutgers University in October 2015. 
 

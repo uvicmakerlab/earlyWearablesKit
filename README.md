@@ -8,7 +8,7 @@ To our knowledge, only one instance of this stick-pin exists in a memory institu
 
 After significant research, including archival work and rapid prototyping experiments, the MLab wonders if the skull was ever fully automated. So we submit our suspicions and this repository to you for some conjectural manufacturing. We also encourage a combination of critical distance with immersion. As a cultural artefact, the stick-pin is not somehow outside of history. 
 
-The Early Wearables Kit includes 3-D models for the skull stick-pin, historical images for contextualizing it, a guide for interpreting it, instructions (starring Trouvé himself) for ways it may be assembled, and a box for storing, arranging, and circulating the Kit's components in tactile form. We have also included references for additional reading, photographs of the Kit as it's been exhibited, and abstracts for academic essays published by the MLab about the Kit.   
+The Early Wearables Kit includes 3-D models for the skull stick-pin, historical images for contextualizing it, a guide for interpreting it, instructions (starring Trouvé himself) for ways it may be assembled, and a box for storing, arranging, and circulating the Kit's components in tactile form. We have also included references for further reading, photographs of the Kit as it's been exhibited, and abstracts for academic essays published by the MLab about the Kit.   
 
 The Wearables Kit is part of the MLab's Kits for Cultural History series, and it was made with support from the Social Sciences and Humanities Research Council (SSHRC), the Canada Foundation for Innovation (CFI), and the British Columbia Knowledge Development Fund (BCKDF). 
 

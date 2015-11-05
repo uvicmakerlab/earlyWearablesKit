@@ -63,5 +63,9 @@ The Early Wearable Kit is a multiple made of wood, paper, ink, acrylic, wire, ma
 
  Since 2013, the following researchers have contributed to the Early Wearables Kit: Nina Belojevic, Tiffany Chan, Nicole Clouston, Devon Elliott, Katherine Goertz, Shaun Macpherson, Kaitlynn McQueston, Danielle Morgan, Victoria Murawski, Jentery Sayers, and William J. Turkel. The Social Sciences and Humanities Research Council, the Canada Foundation for Innovation, and the British Columbia Knowledge Development Fund have supported this research. 
 
+ ## Change Log 
+
+ This is Version 1.0 of the Early Wearable Kit. All files for this version were updated on 6 Friday 2015.  
+
 
 

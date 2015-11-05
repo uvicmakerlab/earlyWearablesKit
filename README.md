@@ -50,13 +50,9 @@ The [essays folder](/essays) includes abstracts for journal articles containing 
 
 ## Exhibitions
 
-![Wearables Kit at Rutgers](/exhibitions/rutgersAudience1.jpg)
+![Wearables Kit at Rutgers](/exhibitions/rutgersDisplay1.jpg)
 
 The [exhibitions folder](/exhibitions) includes photographs of events where the MLab has shown the Early Wearable Kit, which was first displayed at Rutgers University in October 2015. 
-
-## Not Included 
-
-At this time, it is not possible to digitize everything in the Early Wearables Kit. Batteries are not included. The following materials may be useful for assembly: enamel-insulated copper wire, 9-volt batteries, soft iron core (small pieces), and metal rods (small and thin) for the pin and articulations. For details, see the instructions in the [guide folder](/guide). 
 
 ## Technologies 
 
@@ -66,9 +62,21 @@ The Early Wearable Kit is a multiple made of wood, paper, ink, acrylic, wire, ma
 
 Since 2013, the following researchers have contributed to the Early Wearables Kit: Nina Belojevic, Tiffany Chan, Nicole Clouston, Devon Elliott, Katherine Goertz, Shaun Macpherson, Kaitlynn McQueston, Danielle Morgan, Victoria Murawski, Jentery Sayers, and William J. Turkel. The Social Sciences and Humanities Research Council, the Canada Foundation for Innovation, and the British Columbia Knowledge Development Fund have supported this research. 
 
+## Process Documentation 
+
+For additional process documentation pertaining to the Kit, see the MLab's website at http://maker.uvic.ca/kch/. 
+
 ## Change Log 
 
-This is Version 1.0 of the Early Wearables Kit. All files for this version were updated on 6 November 2015.  
+This is Version 1.0 of the Early Wearables Kit (Volume 1 in the Kits for Cultural History series). All files for this version were updated on 5 November 2015.  
+
+## Disclaimer
+
+This repository is intended for archival purposes. It does not contain the complete contents of the Early Wearables Kit, including these contents, which cannot be digitized:  enamel-insulated copper wire, 9-volt batteries, soft iron core (small pieces), and metal rods (small and thin) for the pin and articulations. If you are interested in obtaining a complete Wearables Kit, then please contact the MLab via email.  
+
+## License 
+
+The Early Wearables Kit is licensed with Creative Commons according to a [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). 
 
 
 

@@ -1,0 +1,30 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/P4STTQIK">
+        <res:resource rdf:resource="https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/electrocution.jpg"/>
+        <dcterms:rights>Public Domain</dcterms:rights>
+        <z:accessDate>2015-11-06 03:14:43</z:accessDate>
+    </z:UserItem>
+    <bibo:Image rdf:about="https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/electrocution.jpg">
+        <bibo:uri>https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/electrocution.jpg</bibo:uri>
+        <dcterms:date>1891</dcterms:date>
+        <dcterms:medium>Illustration</dcterms:medium>
+        <dcterms:language>English</dcterms:language>
+        <dcterms:abstract>Originally published in &quot;'Wonders never cease,' and the latest novelty is electric jewellery,&quot;
+Funny Folks (London, England), Saturday, May 30, 1891; pg. 186; Issue 862</dcterms:abstract>
+        <dcterms:title>Instantaneous Sketch of Poor Binks, after Having Had a Drink out of His Accumulator Flask instead of His Whisky Flask</dcterms:title>
+        <bibo:shortTitle>Instantaneous Sketch of Poor Binks</bibo:shortTitle>
+        <dcterms:creator rdf:nodeID="n14"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n14"/></rdf:Seq>
+        </bibo:authorList>
+    </bibo:Image>
+    <foaf:Person rdf:nodeID="n14">
+       <foaf:givenname>S.</foaf:givenname><foaf:surname>H.</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>

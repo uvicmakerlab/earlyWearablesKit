@@ -1,0 +1,30 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/7WQ35CUN">
+        <res:resource rdf:resource="https://raw.githubusercontent.com/uvicmakerlab/trouve/master/89seriesOfElectroMobileJewelry.png"/>
+        <dcterms:rights>Public Domain</dcterms:rights>
+        <z:accessDate>2015-11-06 02:52:09</z:accessDate>
+    </z:UserItem>
+    <bibo:Image rdf:about="https://raw.githubusercontent.com/uvicmakerlab/trouve/master/89seriesOfElectroMobileJewelry.png">
+        <bibo:uri>https://raw.githubusercontent.com/uvicmakerlab/trouve/master/89seriesOfElectroMobileJewelry.png</bibo:uri>
+        <dcterms:date>1891</dcterms:date>
+        <z:extra>See 1120517729 (ISBN)</z:extra>
+        <dcterms:medium>Illustration</dcterms:medium>
+        <dcterms:language>French</dcterms:language>
+        <dcterms:abstract>Illustration republished in Histoire d'un inventeur: exposé des déscouvertes et des travaux de m. Gustave Trouvé dans le domaine de l'électricité, by George Barral (1891)</dcterms:abstract>
+        <dcterms:title>Figure 89: Series of Electro-Mobile Jewelry</dcterms:title>
+        <bibo:shortTitle>Series of Electro-Mobile Jewelry</bibo:shortTitle>
+        <dcterms:creator rdf:nodeID="n6"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n6"/></rdf:Seq>
+        </bibo:authorList>
+    </bibo:Image>
+    <foaf:Person rdf:nodeID="n6">
+       <foaf:givenname>Gustave</foaf:givenname><foaf:surname>Trouvé</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>

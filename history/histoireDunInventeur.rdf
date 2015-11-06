@@ -1,0 +1,32 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:address="http://schemas.talis.com/2005/address/schema#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:z="http://www.zotero.org/namespaces/export#">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/4B4SJWZP">
+        <res:resource>
+            <bibo:Book>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Paris</address:localityName>
+                        <foaf:name>G. Carré</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>1891</dcterms:date>
+                <dcterms:language>French</dcterms:language>
+                <dcterms:title>Histoire d'un inventeur: exposé des déscouvertes et des travaux de m. Gustave Trouvé dans le domaine de l'électricité</dcterms:title>
+                <dcterms:creator rdf:nodeID="n43"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n43"/></rdf:Seq>
+                </bibo:authorList>
+            </bibo:Book>
+        </res:resource>
+        <dcterms:rights>Public Domain</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n43">
+       <foaf:givenname>George</foaf:givenname><foaf:surname>Barral</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>

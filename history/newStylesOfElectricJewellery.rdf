@@ -1,0 +1,32 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bibo="http://purl.org/ontology/bibo/">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/UPBCQRT4">
+        <res:resource rdf:resource="https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/stylesOfElectricJewellery.jpg"/>
+        <dcterms:rights>Public Domain</dcterms:rights>
+        <z:accessDate>2015-11-06 03:57:24</z:accessDate>
+    </z:UserItem>
+    <bibo:Article rdf:about="https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/stylesOfElectricJewellery.jpg">
+        <bibo:uri>https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/stylesOfElectricJewellery.jpg</bibo:uri>
+        <bibo:pages>3</bibo:pages>
+        <dcterms:language>English</dcterms:language>
+        <dcterms:abstract>&quot;New Styles of Electric Jewellery.&quot; The Blackburn Standard and Weekly Express (Blackburn, England), Saturday, August 09, 1890; pg. 3; Issue 2842.</dcterms:abstract>
+        <dcterms:title>New Styles of Electric Jewellery</dcterms:title>
+        <bibo:shortTitle>New Styles of Electric Jewellery</bibo:shortTitle>
+        <z:repository>Blackburn Standard</z:repository>
+        <dcterms:isPartOf>
+            <bibo:Issue>
+                <bibo:issue>2842</bibo:issue>
+                <dcterms:date>1890, August 9</dcterms:date>
+                <dcterms:isPartOf>
+                    <bibo:Magazine>
+                        <dcterms:title>Blackburn Standard and Weekly Express</dcterms:title>
+                    </bibo:Magazine>
+                </dcterms:isPartOf>
+            </bibo:Issue>
+        </dcterms:isPartOf>
+    </bibo:Article>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/56QK92ZR">
+        <res:resource>
+            <bibo:Article>
+                <bibo:pages>17</bibo:pages>
+                <dcterms:language>English</dcterms:language>
+                <dcterms:abstract>Leech, J. (1853, April 23). Taste. Punch, p. 17. London.</dcterms:abstract>
+                <dcterms:title>Taste</dcterms:title>
+                <bibo:shortTitle>Taste</bibo:shortTitle>
+                <z:repository>Punch</z:repository>
+                <dcterms:creator rdf:nodeID="n38"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n38"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:issue>April</bibo:issue>
+                        <dcterms:date>1853 April 23</dcterms:date>
+                        <dcterms:isPartOf>
+                            <bibo:Magazine>
+                               <dcterms:title>Punch</dcterms:title>
+                            </bibo:Magazine>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:Article>
+        </res:resource>
+        <dcterms:rights>Public Domain</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n38">
+       <foaf:givenname>John</foaf:givenname><foaf:surname>Leech</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>

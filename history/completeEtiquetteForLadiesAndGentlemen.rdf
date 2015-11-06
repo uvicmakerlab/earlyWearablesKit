@@ -1,0 +1,28 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:address="http://schemas.talis.com/2005/address/schema#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bibo="http://purl.org/ontology/bibo/">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/AVPX3TMZ">
+        <res:resource>
+            <bibo:Book>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>London</address:localityName>
+                        <foaf:name>Frederick, Wayne, and Co.</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>1900</dcterms:date>
+                <dcterms:source>247895</dcterms:source>
+                <dcterms:language>English</dcterms:language>
+                <dcterms:abstract>A Guide to the Rules and Observances of Good Society</dcterms:abstract>
+                <dcterms:title>Complete etiquette for ladies and gentlemen</dcterms:title>
+                <z:repository>Bodleian Library</z:repository>
+            </bibo:Book>
+        </res:resource>
+        <dcterms:rights>Public Domain</dcterms:rights>
+    </z:UserItem>
+</rdf:RDF>

@@ -1,0 +1,38 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <z:UserItem rdf:about="http://zotero.org/users/2688306/items/43R8RTTC">
+        <res:resource rdf:resource="https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/laNatureElectroMobileJewellery.jpg"/>
+        <dcterms:rights>Public Domain</dcterms:rights>
+        <z:accessDate>2015-11-06 03:33:28</z:accessDate>
+    </z:UserItem>
+    <bibo:Image rdf:about="https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/laNatureElectroMobileJewellery.jpg">
+        <bibo:uri>https://raw.githubusercontent.com/uvicmakerlab/earlyWearablesKit/master/history/laNatureElectroMobileJewellery.jpg</bibo:uri>
+        <dcterms:date>1879</dcterms:date>
+        <z:extra>See also https://commons.wikimedia.org/wiki/File:Bijoux_%C3%A9lectriques.png</z:extra>
+        <dcterms:medium>Illustration</dcterms:medium>
+        <dcterms:language>French and English</dcterms:language>
+        <dcterms:abstract>Published in Trouvé’s bijoux électriques lumineux. La nature: revue des sciences et de leurs applications aux arts et à l’industrie, Issue 528, p. 5. Paris, 1879, September 15</dcterms:abstract>
+        <dcterms:title>Electric Jewelry by Mr. Trouvé</dcterms:title>
+        <bibo:shortTitle>Electric Jewelry</bibo:shortTitle>
+        <z:repository>La Nature</z:repository>
+        <dcterms:creator rdf:nodeID="n22"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n22"/></rdf:Seq>
+        </bibo:authorList>
+        <dcterms:contributor rdf:nodeID="n24"/>
+        <bibo:contributorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n24"/></rdf:Seq>
+        </bibo:contributorList>
+    </bibo:Image>
+    <foaf:Person rdf:nodeID="n22">
+       <foaf:surname>Dietrich</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n24">
+       <foaf:givenname>Gustave</foaf:givenname><foaf:surname>Trouvé</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>

@@ -14,7 +14,7 @@ The Wearables Kit is Volume 1 in the MLab's Kits for Cultural History series. It
 
 ## History 
 
-![Electro-mobile Pins](/history/electroMobilePinsEnlarged.jpg)
+![Electro-mobile Pins](/history/largeScaleRepresentationOfRabbitBirdAndSkullElectroMobileJewelry.jpg)
 
 The [history folder](/history) contains various historical images related to the electro-mobile skull stick-pin. These images include illustrations of the pin as well as illustrations of related designs by Trouvé. For the Kit, the MLab prints these images and places them in the bottom compartments of the box. Metadata Object Description Schema (MODS) and Bibliographic Ontology metadata are provided for each image in XML and RDF formats. Where necessary, this metadata translates the original French into English. For more illustrations of Trouvé's work, see the MLab's [trouve](https://github.com/uvicmakerlab/trouve) repository, which contains 200+ images extracted from George Barral's 1891 Trouvé biography (public domain). The MLab translated the captions for each image from the original French into English. 
 

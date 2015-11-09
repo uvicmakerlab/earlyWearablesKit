@@ -82,10 +82,12 @@ This repository is intended primarily for archival purposes. It does not contain
 
 Since 2013, the following researchers have contributed to the Early Wearables Kit: Nina Belojevic, Tiffany Chan, Nicole Clouston, Devon Elliott, Katherine Goertz, Shaun Macpherson, Kaitlynn McQueston, Danielle Morgan, Victoria Murawski, Jentery Sayers, and William J. Turkel. The Social Sciences and Humanities Research Council, the Canada Foundation for Innovation, and the British Columbia Knowledge Development Fund have supported this research. 
 
-## License 
+## License and DOI
 
 The Early Wearables Kit is licensed [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Attribution should be given to the Maker Lab in the Humanities at the University of Victoria (maker.uvic.ca). 
 
+![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.33466.svg)
+
 ## Change Log 
 
-This is Version 1.0 of the Early Wearables Kit (Volume 1 in the Kits for Cultural History series). All files for this version were updated on 5 November 2015, and the MLab publicly launched this repository on 6 November 2015.  
+This is Version 1.1  of the Early Wearables Kit (Volume 1 in the Kits for Cultural History series). All files for this version were updated on 8 November 2015, and the MLab publicly launched this repository on 6 November 2015. With Version 1.1, we gave the repository a DOI.    
